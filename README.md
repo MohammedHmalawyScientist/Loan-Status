@@ -1,7 +1,7 @@
 # Project No. (4) : Loan Status
 
 ### Description
-Now, passengers can predict the tickets price for flights over the data.
+Now, Dream Housing Finance company can identify the customers segments, those are eligible for loan amount so that they can specifically target these customers over the data.
 This is a web app to predict whether a customer will claim the home loan or not.
 
 ### User Inputs
