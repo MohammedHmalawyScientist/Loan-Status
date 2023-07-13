@@ -22,10 +22,7 @@ This is a web app to predict whether a customer will claim the home loan or not.
 - Additional Info : This feature is a list that consist of 10 categories (`No info` , `In-flight meal not included` , `No check-in baggage included` , `1 Short layover` , `No Info` , `1 Long layover` , `Change airports` , `Business class` , `Red-eye flight` , `2 Long layover`)
 
 ### Get Dataset
-[Download](https://docs.google.com/spreadsheets/d/1Jgk1wDOjxKkiAEHxBWGk2lyx3LIpZ9gD/edit?usp=sharing&ouid=108222412027726456153&rtpof=true&sd=true) - Loan Status
-
-### Watch Presentation
-[Explaining Video](https://youtu.be/7dxUQIo3PyU) - Loan Status
+[Download](https://drive.google.com/file/d/1GpcP16jbzD5IrhpZxMh_Xz9HO4CBS__T/view?usp=sharing) - Loan Status
 
 ### Predict Now
-[Application](https://airline-price-vb7bmlq5ovf.streamlit.app/) - Loan Status
+[Application](https://loan-status-ee4jfixxybf.streamlit.app/) - Loan Status
