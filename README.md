@@ -19,7 +19,7 @@ This is a web app to predict whether a customer will claim the home loan or not.
 
 - Property Area : This feature is a list that consist of 3 categories (`Urban`, `Semiurban`, `Rural`)
 
-- Credit History : This feature is a check box that return (`1`, `0`) if you check or uncheck it respectively
+- Credit History : This feature is a check box that return `1` or `0` if you check or uncheck it respectively
 
 ### Get Dataset
 [Download](https://drive.google.com/file/d/1GpcP16jbzD5IrhpZxMh_Xz9HO4CBS__T/view?usp=sharing) - Loan Status
