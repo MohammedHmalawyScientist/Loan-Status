@@ -5,21 +5,21 @@ Now, Dream Housing Finance company can identify the customers segments, those ar
 This is a web app to predict whether a customer will claim the home loan or not.
 
 ### User Inputs
-- Airline : This feature is a list that consist of 11 categories (`Vistara` , `Jet Airways` , `Air India` , `GoAir` , `IndiGo` , `Multiple carriers` , `SpiceJet` , `Other` , `Air Asia` , `Jet Airways Business` , `Multiple carriers Premium economy`)
+- Gender : This feature is a list that consist of 2 categories (`Male` , `Female`)
 
-- Time Period : This feature is a list that consist of 4 categories (`Morning` , `Afternoon` , `Evening` , `Night`)
+- Married : This feature is a list that consist of 2 categories (`Yes` , `No`)
 
-- Source : This feature is a list that consist of 5 categories (`Delhi` , `Kolkata` , `Banglore` , `Mumbai` , `Chennai`)
+- Dependents : This feature should be a value that has a range between `0` and `3`
 
-- Destination : This feature is a list that consist of 6 categories (`Cochin` , `Banglore` , `Delhi` , `New Delhi` , `Hyderabad` , `Kolkata`)
+- Education : This feature is a list that consist of 2 categories (`Graduate`, `Not Graduate`)
 
-- Duration : This feature should be a value that has a range between `0` and `10,000`
+- Loan Amount : This feature should be a value that has a range between `1` and `600`
 
-- Total Stops : This feature should be a value that has a range between `0` and `4`
+- Loan Amount Term : This feature should be a value that has a range between `12` and `480`
 
-- Route Status : This feature is a list that consist of 2 categories (`Direct` , `Indirect`)
+- Property Area : This feature is a list that consist of 3 categories (`Urban`, `Semiurban`, `Rural`)
 
-- Additional Info : This feature is a list that consist of 10 categories (`No info` , `In-flight meal not included` , `No check-in baggage included` , `1 Short layover` , `No Info` , `1 Long layover` , `Change airports` , `Business class` , `Red-eye flight` , `2 Long layover`)
+- Credit History : This feature is a check box that return (`1`, `0`) if you check or uncheck it respectively
 
 ### Get Dataset
 [Download](https://drive.google.com/file/d/1GpcP16jbzD5IrhpZxMh_Xz9HO4CBS__T/view?usp=sharing) - Loan Status
